@@ -1,3 +1,5 @@
+[![Deploy to Azure](https://github.com/TaylorThomsonWhitting/terriajs-server/actions/workflows/master_ttw-terriajs-server.yml/badge.svg)](https://github.com/TaylorThomsonWhitting/terriajs-server/actions/workflows/master_ttw-terriajs-server.yml)
+
 ## TerriaJS-Server
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/TerriaJS/terriajs-server.svg)](https://greenkeeper.io/)

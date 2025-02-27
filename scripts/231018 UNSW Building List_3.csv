@@ -1,0 +1,119 @@
+Ref,Building,Title,TTW Job Nos,Category,Year Constructed,Year (AGB),Year,Age Risk Rating,Structural Engineer,Structural Drawings,Storeys,Structural Framing System,LLRS,Typology Risk,Priority Rating,Asset Priority Rating,Structural Seismic Risk Level,Geotechnical Report,Ground Conditions,Facade Typology,Facade Safety Risk,Facade Risk Identification,Address,Co-ordinates,Latitude,Longitude,Notes,Link,,Facade Observations,Status,UNSW PM
+A27,Golf House,Golf House (A27),171113,Building,N/A,,1955,5,,,,LOW RISE MASONRY,Masonry Walls,2,10,MEDIUM,,,,Brick/render,Low,No issues identified,,,,,,,,,,
+B05,Aquatic Centre,Fitness and Aquatic Centre (B05),121168,Sports,N/A,,1979,5,,,,LONG SPAN RC FRAME,HYBRID,2,10,MEDIUM,,,,Concrete frame / brick,High,Potential failures identified and require rectification,,,,,,,,"PT beam ends corroding, timber protection required (S)",,
+B05,Fitness Centre,,,,,,1971,5,,,,RC FRAME,,1,5,LOW,,,,Brick,High,Potential failures identified and require rectification,,,,,,,,"Gutter failure (E), Brick cracking/footing failure (S), water ingress through fa?ade (S), steel props corrosion (S)",,
+B08,University Terraces,University Terraces (B08),,Student Accom,N/A,,2013,1,,,7,RC FRAME,RC WALLS,1,1,,,,,Brick / glass fins,High,Potential failures identified and require rectification,,,,,,,,"Soffit board failure (SE), mortar joint opening (S)",,
+B10,UNSW Village,UNSW Village (B10),,Student Accom,2008,,2008,1,ROBERT BIRD GROUP,S0-00 - S16-15,,CONCRETE,RC WALLS,1,1,,,N/A,,Precast,High,Potential failures identified and require rectification,,,,,,,,"Concrete spalling, concrete cracking, gutter maintenance (E), Roof vegetation, FC sheet staining/deteriorating",,
+B14D,Fig Tree Theatre,,,,,,1955,5,,,1,LOW RISE TIMBER,TIMBER,2,10,MEDIUM,,,,Corrugated metal,High,Potential failures identified and require rectification,,,,,,,,"Roof damage & debris, cladding corrosion, brick crack (E) ",,
+B15,Old Tote,,,,,,1955,5,,,3,TIMBER / MASONRY,,2,10,MEDIUM,,,,,High,Potential failures identified and require rectification,,,,,,,,"Steel corrosion to steel stairs (W), Roof damage",,
+B16,Columbo House,Columbo Building (B16),,Building,2012,,2012,1,STRUCTURAL SYSTEMS P/L,S202 - S329,,RC FRAME / PT FLOORS,,1,1,,,N/A,,Brick / Precast,Very High,Facade safety risk identified requiring immediate attention,,,,,,,,"Investigate Handrails (site advice 3), investigate concrete plugs",,
+B17,Goldstein College,Goldstein College (B17),,Building,2012,1964,2012,1,STRUCTURAL SYSTEMS P/L,S202 - S329,7,RC FRAME / PT FLOORS,,1,1,,,N/A,,Brick / Precast,Very High,Facade safety risk identified requiring immediate attention,,,,,,,,"Wedged piece of wood (W) (site advice 2), check precast precast plugs",,
+B18,Fig Tree Hall,Fig Tree Hall (B18),,Building,N/A,,2012,1,,,,RC FRAME / PT FLOORS,,1,1,,,,,"RC frame, Brick / Precast concrete",High,Potential failures identified and require rectification,,,,,,,,"Concrete spalling (low level), Loose concrete plugs, water damage to balconies, vegetation in gutters",,
+B21,Repository,,,,,1971,1971,3,,,1,MASONRY,,3,9,MEDIUM,,,,Precast Concrete,High,Potential failures identified and require rectification,,,,,,,,"Concrete spalling, exposed reo",,
+C06,International House,International House (C06),"701107
+65178
+651001
+171487
+101254
+071474",Building,1965 to 2010 ,,1968,5,TTW,S1 - S13,,RC FRAME / RC SLAB AND BEAMS,,1,5,LOW,,N/A,,Brick,High,Potential failures identified and require rectification,,,,,,,,"Timber rafters rotting (N), Vegetation on roof, Brick joints to be sealed, window failure (E), Window seal failure, Concrete spalling, mortar repair.
+TTW Fa?ade condition report issued Oct 2023. Awaiting direction.",Fa?ade Condition Report issued Oct 2023,Nathan Barlow / Lauren Stafford
+C15,White House,,,,,,1955,5,,,2,LOW RISE STEEL/TIMBER HYBRID,,2,10,MEDIUM,,,,Timber cladding,High,Potential failures identified and require rectification,,,,,,,,"Paving collapsed, Gutter cleaning",,
+C20,Morven Brown Building,Morven Brown Building,121566,Building,1964,1966,1965,5,WOOLACOTTS (WCE) & STACE ENGS,"1E - 6E, S1 - S27",5,CONCRETE & STEELWORK HYBRID,,2,10,MEDIUM,,N/A,,Brick,Very High,Facade safety risk identified requiring immediate attention,,,,,,,,"Replace canopy flashing (N), Spalling RC stairs, Canopy glass seals failed, Dry brick movement joints to replace, leaking gutters, Secure vent covers (site advice 1).
+TTW Fa?ade condition report issued Oct 2023. Awaiting direction.",Fa?ade Condition Report issued Oct 2023,Nathan Barlow / Lauren Stafford
+C22,Chancellery,Chancellery (C22),"121277
+101558 & 67003",Building,1967,,1967,5,TTW,S1-S10,5,RC FRAME / STEEL ROOF,,1,5,LOW,,N/A,,Brick,High,Potential failures identified and require rectification,,,,,,,,"Spalling/cracking brickwork, spalling precast awning, sill corrosion, failed awning gutter, loose flashing",,
+C24,Sir John Clancy Auditorium,Clancy (C24),,Building,1983,1927,1983,3,WOOLACOTTS (WCE),1E - 7E,2,RC FRAME / STEEL ROOF,,2,6,LOW,,N/A,,Precast concrete Cladding Panels,Low,No issues identified,,,,,,,,,,
+C25,Lowy Cancer Research Centre,Lowy Cancer Research Centre,"171744
+151076",Building,1971,2009,2009,1,TTW,,7,RC FRAME / RC SLAB AND BANDS,,1,1,,,N/A,,,High,Potential failures identified and require rectification,,,,,,,,Works in progress on site. Duratec Investigation Report received,"Fa?ade Condition Report issued (Sept 24) 
+TTW Repair Specifications issued (Mar 2024) ",Daniel Kirris
+C27,Wallace Wurth,Wallace Wurth,,Building,1961,1963,1963,5,MORRISON & LITTLE,1 to 63,,CONCRETE & STEELWORK,,1,5,,,N/A,,Curtain Wall / Cladding Panels,High,Potential failures identified and require rectification,,,,,,,,Works in progress on site. Duratec Investigation Report received,"Fa?ade Condition Report issued (Sept 24) 
+TTW Repair Specifications issued (Mar 2024) ",Daniel Kirris
+C27,Wallace Wurth Extension,,"091717
+091157",,,,2014,1,TTW,TTW,,RC FRAME / PT FLOORS,RC WALLS,1,1,,,,,Curtain Wall / Cladding Panels,High,Potential failures identified and require rectification,,,,,,,,,,
+D14,UNSW Hall,,,,,,1971,NA,,,,Demolished,,NA,,,,,,,,#N/A,,,,,,,,,,
+D16,Goldstein Hall,Goldstein Hall (D16),101318,Building,N/A,,1971,5,,,,PRECAST/MASONRY HYBRID,,3,15,HIGH,,,,Precast concrete,High,Potential failures identified and require rectification,,,,,,,,Balcony staining/corrosion (W) - investigate drainage,,
+D17,Basser College,,,,,,2012,1,,,,RC FRAME / PT FLOORS,,1,1,,,,,Brick / Precast,Medium,Risks identified - manage through regular maintenance regime,,,,,,,,"Staining brick/precast, concrete plugs to be checked",,
+D18,Phillip Baxter College,Phillip Baxter College (D18),,Building,N/A,,2012,1,,,,RC FRAME / PT FLOORS,,1,1,,,,,Brick / Precast,High,Potential failures identified and require rectification,,,,,,,,"Cracking concrete (NE corner), Failed window seal (S)",,
+D2,NIDA,NIDA (D02),681163 & 79186,Building,1968 & 1979,,1979,5,TTW,TTW,,RC/STEELWORK,,3,15,HIGH,,N/A,,Brick,High,Potential failures identified and require rectification,,,,,,,,Brick mortar and joint repairs (N),,
+D23,Mathews Theatres,Mathews Theatres,,Theatre,N/A,,1971,5,,,,RC LARGE SPAN,,3,15,HIGH,,,,Brick / Precast,High,Potential failures identified and require rectification,,,,,,,,Cladding around duct to be repaired (E) ,,
+D26,Biological Sciences North,Biological Sciences North (D26),"65169 & 141405
+081581
+101787
+161415
+161414
+121809",Building,"1965, 1971",,2018,1,TTW / MORRISON & LITTLE,TTW,7,STEELWORK/RC - UPGRADED 2018,,1,1,,,N/A,,Curtain Wall / Cladding Panels,Low,No issues identified,,,,,,,,,,
+D8,Esme Timbery Creative Studio,,,,,,2019,1,,,,RC FRAME,,1,1,,,,,Concrete / glass / timber,Medium,Risks identified - manage through regular maintenance regime,,,,,,,,Spalling concrete (SE),,
+E02,NIDA Parade Theatre,,,,,,2002,1,,,,RC FRAME/STEEL,,1,1,,,,,Pebblecrete / Glass,Low,No issues identified,,,,,,,,,,
+E04,Squarehouse,Squarehouse (E04),"90069
+89295",Building,1993,,1968,5,,1 to 13,,RC FRAME / SINGLE REINF WALLS,,3,15,HIGH,,N/A,,Brick,Medium,Risks identified - manage through regular maintenance regime,,,,,,,,Debris on canopy (S),,
+E06,Roundhouse,Roundhouse (E06),,Building,N/A,,1971,5,PUBLIC WORKS DEPT,162 - 299,,STEEL/ RC,,3,15,HIGH,,N/A,,,High,Potential failures identified and require rectification,,,,,,,,Concrete canopy crack (SE),,
+E08,Science and Engineering Building,Material Sciences (E08),,Building,1952,,1952,5,CONCRETE INDUSTRIES,1 to 10,,CONCRETE,,2,10,MEDIUM,,N/A,,Curtain wall ,Medium,Risks identified - manage through regular maintenance regime,,,,,,,,Base stonework opening up,,
+E08,Science and Engineering Building,,,,,,2019,1,TTW,TTW,,RC FRAME,,1,1,,,,,,,#N/A,,,,,,,,,,
+E10,Hilmer Building,Hilmer Building,111144,Building,2011,,2011,1,TTW,S001-S1701,,CONCRETE & PT,,1,1,,,N/A,,Precast / Curtain wall,Medium,Risks identified - manage through regular maintenance regime,,,,,,,,Concrete plugs may become an issue. Base stonework opening up,,
+E12,UNSW Business School,,,Building,,1962,1962,3,,,7,CONCRETE,,3,9,MEDIUM,,N/A,,Cladding panels/glass/louvres,High,Potential failures identified and require rectification,,,,,,,,Steel canopy corrosion (S),Proposal for Fa?ade Audit issued 13/3/24,Den Walker
+E13,UNSW Business School Refurb,,041131 B,,2004,,2004,NA,TTW,010-01 - 260-02,,,,,#VALUE!,,,,,,,#N/A,,,,,,,,,,
+E15,Quadrangle,Quadrangle (E15),"90297, 171554
+171212
+171083
+171012
+161513
+111428
+041565",Building,1990,1993,1993,3,TTW,"F1- 15, S1-S78",,CONCRETE,,2,6,LOW,,N/A,,Brick,High,Potential failures identified and require rectification,,,,,,,,"Render spalling (loading dock/E/S/W), brick cracks, repair soffit ",,
+E19,Patricia O'Shane / Central Lecture Block,Central Lecture Block (E19),,Building,1964,1965,1965,5,WOOLOACOTTS (WCE),1E - 7E,3,CONCRETE & STEELWORK,,3,15,HIGH,,N/A,,Brick,High,Potential failures identified and require rectification,,,,,,,,"Concrete spalling (bridge), Dampness around base (maintenance), Balustrade corrosion (W), Vent corrosion, Steel canopy corrosion (S) ",,
+E21,Library - Lower (Menzies),Library,78036,Building,1964,1965,1965,5,WOOLACOTTS (WCE),1E - 7E,,CONCRETE & STEELWORK,,2,10,MEDIUM,,N/A,,,,#N/A,,,,,,,,,,
+E24,Matthews Pavilions / Arcade,Pavilions (E24),,Building,N/A,,1993,3,,,,CONCRETE & STEELWORK,,2,6,LOW,,,,Glass,High,Potential failures identified and require rectification,,,,,,,,"Corroded gutter, leaking internally",,
+E25,Biolink Building,,,,,,1971,5,,,,RC Frame/Precast,,3,15,HIGH,,,,Precast,High,Potential failures identified and require rectification,,,,,,,,Refer fa?ade condition reports (area cordoned off). Biolink project RFQ submitted and awaiting direction,"Fee proposal provided for fa?ade assessment. 
+Awaiting direction on E25 Biolink project ",Glynn Clayton  / Anthony Alphonse
+E26,Biological Sciences South,Biological Sciences South (E26),,Building,N/A,,2015,5,,,,UPGRADE,,1,5,LOW,,,,,Low,No issues identified,,,,,,,,,,
+F08,Law Building,Law Building,,Building,N/A,,2008,1,,,,RC FRAME,,1,1,,,,,,Low,No issues identified,,,,,,,,,,
+F10,June Griffith / Chemical Sciences Building,Chemical Sciences Building,,Building,,,1969,5,,,,RC FRAME,,3,15,HIGH,,N/A,,,Very High,Facade safety risk identified requiring immediate attention,,,,,,,,"Ongoing work - refer TTW fa?ade condition report, parapet stabilisation, exhaust duct repairs.
+Drone survey for ducts awaiting CASA approcal","Fa?ade and Structural Report issued.
+Exhaust Duct Repair Advice.
+Advice requested on parapet stabilisation.  ",Brady Clementson / Daniel Kirris
+F10,June Griffith / Chemical Sciences Extension,Chemical Sciences Building,2003-031306,Building,2003,,2003,1,TTW,S101-S102,,RC/STEELWORK,,2,2,,,N/A,,,,#N/A,,,,,,,,,Previous fa?ade reports provided for reference. ,
+F12,Dalton Building,Dalton Building (F12),,Building,,,1971,5,BRUECHLE GILCHRIST EVANS,S1 - S22,,RC RIBBED SLAB,,3,15,HIGH,,N/A,,Precast,Medium,Risks identified - manage through regular maintenance regime,,,,,,,,"Staining, mortar joint repairs",,
+F13,Science Theatre,Science Theatre,,Building,N/A,,1971,5,STANLEY & LLEWELLYN,,,CONCRETE & STEELWORK,,3,15,HIGH,,N/A,,"Cladding panels, glass",High,Potential failures identified and require rectification,,,,,,,,"Foundation undermined (NE), Failing soffits, Window frmae corrosion, cracked sills, loose flashing, panels cracked in corners.",Proposal for Fa?ade Audit issued 13/3/24 ,Dean Walker 
+F17,Rex Vowels Theatre,Rex Vowels Theatre,,Theatre,N/A,1970,1970,5,,,,CONCRETE / STEEL ROOF,,3,15,HIGH,,,,Brick,Medium,Risks identified - manage through regular maintenance regime,,,,,,,,Landscape maintenance,,
+F20,John Goodsell Building,John Goodsell Building,,Building,1964,1965,1965,5,WOOLACOTTS (WCE),1E - 7E,6,CONCRETE/ SINGLE LAYER REINF/STEEL ROOF,,3,15,HIGH,,N/A,,Brick,High,Potential failures identified and require rectification,,,,,,,,"Canopy damage (add bollards or signage), Landing parapet joints, replace soffit (S), repair movement joint sealant",,
+F21,Library - Tower,,,Building,,,1973,5,WOOLACOTTS (WCE),S1-S73,,RC FRAME/SHEAR WALLS,,2,10,MEDIUM,,,,Concrete / Precast / Low level brick,High,Potential failures identified and require rectification,,,,,,,,"TTW have provided updated proposal for fa?ade investigation report (28/2/24).
+Concrete spalling, render spalling, steel corrosion to 'Lounge' parapet, repair flashing (E) ",Fee updated and issued 30/4/24 ,Scott Murphy
+F22,Bank,,,,,,1971,5,,,2,RC FRAME/SHEAR WALLS,,3,15,HIGH,,,,Brick,High,Potential failures identified and require rectification,,,,,,,,"Failed window seals (W), repair parapet brickwork (adjacent entry)",,
+F23,Mathews Building,Mathews Building,,Building,1971,1973,1971,5,WOOLACOTTS (WCE),1E - 7E,,CONCRETE & STEELWORK,,3,15,HIGH,,N/A,,Precast concrete,Very High,Facade safety risk identified requiring immediate attention,,,,,,,,"Hoarding erected for pedestrian safety, temporary overhead protection designed, 
+Scope of repairs/replacement to be confirmed by UNSW",Concrete Defects Summary and Informative Risk Assessment (2023) ,Luke Demetriou
+F25,Samuels Building,Samuels Building (F25),,Building,1995,1992,1991,3,ARUP,S1 - S33,9,RC FRAME / RC SHEAR WALLS,,1,3,,,N/A,,2 storey brick / Cladding Panels,Medium,Risks identified - manage through regular maintenance regime,,,,,,,,"Cleaning, debris, mortar joints",,
+G06,Blockhouse,,,,,,1971,5,,,2,RC FRAME / EXTERNAL RC CORE,,3,15,HIGH,,,,Brick / Precast,High,Potential failures identified and require rectification,,,,,,,,"Spalling concrete soffit (S), brick cracking (SE)",,
+G14,Robert Webster,Robert Webster,,Building,N/A,1969,1969,5,SMITH & LASCELLES,1 to 30,7,RC FRAME / RC SHEAR WALLS,,2,10,MEDIUM,,N/A,,Cladding / Glass,High,Potential failures identified and require rectification,,,,,NEW STEEL ROOF 2000,,,Current repairs by RM Watson. TTW fee requested for peer review services.,Fa?ade replacement north ,Chloe Miller
+G15,Webster Theatres,Webster Theatres,,Theatre,N/A,1969,1993,3,,,,RC FRAME,,3,9,MEDIUM,,,,Precast,High,Potential failures identified and require rectification,,,,,,,,Concrete spalling (E),,
+G17,Electrical Engineering,Electrical Engineering (G17),,Building,1961,,UPGRADED,NA,MACDONALD WAGNER & PRIDDLE,S1 - S7,,RC FRAME,,NA,#VALUE!,,,N/A,,,,#N/A,,,,,,,,,,
+G17,Electrical Engineering Modernisation,Electrical Engineering (G17),151695,Building,1979,,2015,1,TTW,TTW,,RC FRAME (refer modernisation),,1,1,,,N/A,,Brick,High,Potential failures identified and require rectification,,,,,,,,"Cracked precast (N), cracked lintel (N), Debris maintenance, bees nest ",,
+G19,John Niland Scientia,John Niland Scientia (G19),96107 & 011136,Building,1996 & 2001,1999,1999,3,TTW,TTW,,RC FRAME/STEEL ROOF,,1,3,,,,,Blockwork / Cladding panels / Glass atrium,High,Potential failures identified and require rectification,,,,,,,,"Concrete repair (loading dock), Loose stone (W), Open joints, FC sheet infill",Proposal issued for replacement of the existing automated louvre facades and awning 8/4/24 ,Luke Demetriou 
+G23,Solar Research Lab SIRF,Solar Research Lab SIRF (G23),,Building,N/A,,2011,1,,,2,RC FRAME,,1,1,,,,,Curtain wall / Cladding panels ,Medium,Risks identified - manage through regular maintenance regime,,,,,,,,joint seal failed (S),,
+G27,AGSM ,,,Building,,,1982,3,,,5,RC FRAME,,2,6,LOW,,,,Brick,High,Potential failures identified and require rectification,,,,,,,,"Steel corrosion, debris on canopy",,
+G27,AGSM Extension,AGSM (G27),94360,Building,1994,,1994,3,TTW,S1-S31,5,RC FRAME,,2,6,LOW,,N/A,,Brick,High,Potential failures identified and require rectification,"AGSM, Botany St, Randwick NSW 2052",,,,,,,"Steel corrosion, debris on canopy",,
+H01,University Regiment,UNSW Regiment (H01),,Building,N/A,,1971,5,,,1,STEEL/MASONRY,,3,15,HIGH,,,,Brick / cladding,Medium,Risks identified - manage through regular maintenance regime,,,,,,,,Vegetation over car port,,
+H03,New College Postgraduate Village,New College Village Bldg (H03),,Building,2007,,2007,1,WOOLACOTTS (WCE),S1 - S19,,RC FRAME & STEELWORK,,1,1,,,N/A,,Cladding / Terracotta,Very High,Facade safety risk identified requiring immediate attention,,,,,,,,"Loose joint strips in terracotta (N) (site advice 5), Spalling canopy (S), water behind render may lead to spalling",Meeting on site 1/5/24 to discuss facia board remedial works and actions from TTW Site Advice,Gregg Francis 
+H06,Tyree Energy Technologies Building,Tyree Energy Technologies Building (H6),,Building,N/A,,2011,1,TTW,,,RC FRAME/RC SHEAR WALLS,,1,1,,,,,Cladding / Curtain wall,High,Potential failures identified and require rectification,,,,,,,,Recent cladding replacement ok.  Plantroom louvre failure currently out to tender.,Loading Dock Louvre replacement. Report issued 30/1/24 ,John Da Rocha 
+H08,Sam Cracknell Pavillion,Sam Cracknell Pavillion,,Building,1992,,1982,3,PATERSON WHOLOHAN GRILL,S1 - S8,,CONCRETE/STEEL,,2,6,LOW,,N/A,,Brick,High,Potential failures identified and require rectification,,,,,,,,Corroded steel frame around doorway (S),,
+H13,Anita B Lawrence / Red Centre,Red Centre (H13),,Building,1996,1998,1996,3,ARUP,S1 - S48,,RC FRAME / RC+PT FLOORS,RC SHEAR WALLS,1,3,LOW,,N/A,,Gcladding / Glass,High,Potential failures identified and require rectification,,,,,,,,"Loose block (S), detached cladding (S)",,
+H20,Civil Engineering Building,Civil Engineering Building,,Building,N/A,,1966,5,,,7,RC FRAME/GABLE SHEAR WALL+SWAY FRAME,,2,10,MEDIUM,,,,Precast concrete / Brick,High,Potential failures identified and require rectification,,,,,,,,"Spalling window popouts (W) fence restrictions in place.
+TTW fa?ade condition report issued Oct 2023. Awaiting concrete test results from Duratec",Fee proposal for Trial Repairs ,Rodrigo Roa / Melvin Rosende
+H22,Vallentine Annexe,Vallentine Annexe (H22),,Building,N/A,1966,1966,5,,,2,CONCRETE/MASONRY,,3,15,HIGH,,,,Brick / Cladding panels,Very High,Facade safety risk identified requiring immediate attention,,,,,,,,"Scaffold erected - ongoing repairs to canopy, Spalling window Sills (N), Steel corrosion, Spalling concrete, window defects. TTW site inspection 28/2/24",Specification issued 30/4/24 ,Glynn Clayton / Melvin Rosende 
+H25,Botany Street Carpark,Botany Street Carpark (H25),,Car Park,1985,,1985,3,LOW & HOOKE,S0 - S17,8,CONCRETE / PT / SWAY FRAME,RC Sway Frame,2,6,LOW,,N/A,,Brick / Precast,High,Potential failures identified and require rectification,,,,,,,,"Scaffold protection erected (E), spalling concrete, spalling stair soffit (W), mesh corrosion (S)",,
+H25,Botany Street Carpark,,,Car Park,1995,,1995,3,LOW & HOOKE,,,CONCRETE / PT / SWAY FRAME,RC Sway Frame,2,6,LOW,,,,,,#N/A,,,,,,,,,,
+J12,Newton Building,Newton Building (J12),,Building,1994,1970,1970,5,GEOFF NINNES FONG & PARTNERS,S1 - S12,,RC FRAME LONG SPAN / RC WALLS,,3,15,HIGH,,N/A,,RC frame and brick,High,Potential failures identified and require rectification,,,,,,,,"Spalling (possible recent make safe), exposed reo/concrete to be repaired, Concrete awning spalling (E), brick cracks (E), ",,
+J14,Keith Burrows Lecture Theatre,Keith Burrows Lecture Theatre (J14),,Building,N/A,1972,1972,5,,,,RC FRAME LONG SPAN,,3,15,HIGH,,,,Brick,High,Potential failures identified and require rectification,,,,,,,,Brick cracking (W),,
+J17,Ainsworth Building,Ainsworth Building (J17),77134,Building,1961,1963,1963,5,MACDONALD WAGNER & PRIDDLE,S1 - S10,,RC FRAME/NOMINAL WALLS,,3,15,HIGH,,N/A,,Brick / glass stair surround,Medium,Risks identified - manage through regular maintenance regime,Kensington NSW 2052,,,,,,,Balustrade corrosion (E) ,,
+J18,Willis Annexe,Willis Annexe,,Building,1961,1963,1963,5,MACDONALD WAGNER & PRIDDLE,S1 - S20,,RC FRAME/NOMINAL WALLS,,3,15,HIGH,,N/A,,Brick,High,Potential failures identified and require rectification,,,,,,,,"Trims failing around metal panels (W), Canopy gutters blocked (S), Brick repointing (W)",,
+J2,UNSW Regiment 2,,,,,,1971,5,,,,STEEL/MASONRY,,2,10,MEDIUM,,,,Brick,Medium,Risks identified - manage through regular maintenance regime,,,,,,,,"Broken vent, broken sill",,
+J8,Moya Dodd Grandstand,,,,,2022,2022,1,,,,RC,,1,1,,,,,,Low,No issues identified,,,,,,,,,,
+K14,Physics Lecture Theatre,Physics Lecture Theatre (K14),,Building,N/A,,1950,5,,,2,RC FLOOR ON MASONRY,,3,15,HIGH,,,,Brick,High,Potential failures identified and require rectification,,,,,,,,Soffit repair (N),,
+K15,Old Main Building,Old Main Building (K15),,Building,1950,,1950,5,PUBLIC WORKS DEPT,S1 - S45,4,RC FLOOR ON MASONRY,,3,15,HIGH,,N/A,,Brick,High,Potential failures identified and require rectification,,,,,,,,"Spalling bridge bearing, corroded flashings, tree roots in joints, garden maintenance, spalling brickwork (site advice 4), mortar/sealant failure around windows, poor window condition",,
+K17,Computer Science Building,Computer Science (K17),,Building,1974,,1974,5,MACDONALD WAGNER & PRIDDLE,S1 - S39,,RC FRAME/SINGLE REINF WALLS,,2,10,MEDIUM,,N/A,,RC frame,High,Potential failures identified and require rectification,,,,,,,,"Concrete Repairs 2017, water ingress to internal column (W)",,
+L05,Building L05,Building (L05),21189,Building,2002,,2003,1,TTW,S001-S2001,,RC FRAME/SHEAR WALLS,,1,1,,,N/A,,,Low,No issues identified,"Building L5, 223 Anzac Parade",,,,,,,Not UNSW property,,
+L06,New College,New College *L6),,Building,N/A,,1971,5,,,5,RC/MASONRY,,3,15,HIGH,,,,Brick,High,Potential failures identified and require rectification,,,,,,,,"Gutter failure (SE), metal louvre corrosion (S)",,
+M15,Rupert Myers,Rupert Myers,,Building,1991,,1994,3,GEOFF NINNES & PARTNERS,S1-S12 & S17,4,CONCRETE,,2,6,LOW,,N/A,,Brick / Cladding panels,High,Potential failures identified and require rectification,,,,,,,,"Check glass balustrade compliance (W), Steel corrosion (N/W), steel corrosion at gutters (E), ",,
+M7,Warrane College,,,,,,1971,5,,,7,RC/MASONRY,,3,15,HIGH,,,,Rendered concrete frame,High,Potential failures identified and require rectification,,,,,,,,"Render failure (E+W), Soffit render failure (S)",,
+N13,Barker Apartments,,,,,,1993,3,,,4,LOW RISE MASONRY,,2,6,LOW,,,,Brick,High,Potential failures identified and require rectification,,,,,,,,"RC and steel balcony corrosion, Brick cracking (N/S), Concrete spalling (N)",,
+N18,Barker Street Parking Station,,,,,,1993,3,,,,RC MOMENT FRAME,,3,9,MEDIUM,,,,Concrete frame / brick / mesh,High,Potential failures identified and require rectification,,,,,,,,Currently out to tender for car park upgrades,Tender Upgrade works,Luke Demetriou
+N8,House at Pooh Corner,,,,,,1971,5,,,,LOW RISE CONCRETE,,2,10,MEDIUM,,,,Brick / Timber,High,Potential failures identified and require rectification,,,,,,,,"External fencing failure (over kids), gutter maintenance, hopper failure, timber rot (S)",,
+N9,Shalom Apartments,,,,,,1982,3,,,,LOW RISE MASONRY,,2,6,LOW,,,,Brick,High,Potential failures identified and require rectification,,,,,,,,"Soffit failure, gutter maintenance, timber cladding rot (S)",,

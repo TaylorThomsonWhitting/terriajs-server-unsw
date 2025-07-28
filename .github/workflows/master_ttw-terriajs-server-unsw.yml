@@ -59,7 +59,7 @@ jobs:
         with:
           client-id: ${{ secrets.TTW_DIGITAL_CLIENT_ID }}
           tenant-id: ${{ secrets.TTW_DIGITAL_TENENT_ID }}
-          subscription-id: ${{ secrets.TTW_TERRIAJS_SERVER_UNSW_SUBSCRIPTION_ID }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_3D6B3570ED4E4080B279B4C9331B7F3C }}
 
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp

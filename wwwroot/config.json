@@ -1,6 +1,6 @@
 {
   /* Names of init files (in wwwroot/init), without the .json extension, to load by default */
-  "initializationUrls": ["unsw"],
+  "initializationUrls": ["https://ttwhub.blob.core.windows.net/digtwins/config.json"],
   "parameters": {
     "googleUrlShortenerKey": null,
     "googleAnalyticsKey": null,
@@ -9,7 +9,7 @@
     "bingMapsKey": "AnegBGc_jfuTLGsczqZPMqLA_0ayOewcn1NR-E22JZjUamyiJqPYALWy1y0AUTcE",
     "hideTerriaLogo": true,
     "storyEnabled": false,
-    "shareEnabled": false,
+    "shareEnabled": true,
     // Log ConsoleAnalytics events to console
     // logToConsole: true,
     /* Text that appears at the bottom of the map */
@@ -42,12 +42,12 @@
             link: "http://www.example.com"
         },*/
     // This is used in various text messages. You should also set <title> in index.html
-    "appName": "TTW Digital Twins | UNSW",
+    "appName": "TTW Geospatial",
     // See comments in lib/Views/global.scss for further information about customising colors, logos, fonts etc.
     "brandBarElements": [
       "",
-      "<a target=\"_blank\" style=\"margin: 0 10px 10px 0px;\" href=\"https://hub.ttw.com.au/models\"><div style=\"display: flex;\"><img src=\"images/ttw-models-logo.png\" height=\"72\"  title=\"Version: {{version}}\" /></div></a>",
-      "<img src=\"images/unsw.png\" height =\"72\"/>"
+      "<a target=\"_blank\" style=\"margin: 0 10px 10px 0px;\" href=\"https://hub.ttw.com.au/models\"><img src=\"images/ttw-geospatial.png\" height=\"72\"  title=\"Version: {{version}}\" /></a>",
+      ""
     ],
     // Shown when things go wrong.
     "supportEmail": "hub@ttw.com.au",
